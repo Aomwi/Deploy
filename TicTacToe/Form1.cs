@@ -12,13 +12,18 @@ namespace TicTacToe
     public partial class Form1 : Form
     {
         private  char[,] arrTiles;
+<<<<<<< HEAD
         private bool turn = true;
      
+=======
+        
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
 
         public Form1()
         {
             InitializeComponent();
             arrTiles = new char[3, 3];
+<<<<<<< HEAD
             setFont();
         }
 
@@ -89,10 +94,33 @@ namespace TicTacToe
                 turn = !turn;
                
             }
+=======
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (button5.Text == "")
             {
                 if (turn)
@@ -107,10 +135,14 @@ namespace TicTacToe
                 turn = !turn;
 
             }
+=======
+
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (button6.Text == "")
             {
                 if (turn)
@@ -125,10 +157,14 @@ namespace TicTacToe
                 turn = !turn;
 
             }
+=======
+
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (button7.Text == "")
             {
                 if (turn)
@@ -143,10 +179,14 @@ namespace TicTacToe
                 turn = !turn;
 
             }
+=======
+
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (button8.Text == "")
             {
                 if (turn)
@@ -161,10 +201,14 @@ namespace TicTacToe
                 turn = !turn;
 
             }
+=======
+
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (button9.Text == "")
             {
                 if (turn)
@@ -202,5 +246,9 @@ namespace TicTacToe
       
 
      
+=======
+
+        }
+>>>>>>> 832904efee5ea7cfd2fcf46377c79d1412fbc6ac
     }
 }
