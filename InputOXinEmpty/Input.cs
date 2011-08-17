@@ -11,6 +11,16 @@ namespace InputOXinEmpty
         {
             Console.WriteLine("\t>>O");
         }
+
+         public static string Evaluate(string input)
+         {
+               if (input == "O")
+                        return "OK";
+                  else
+                        return "Not OK";
+
+          }
+        
         public void InputX(String x)
         {
 

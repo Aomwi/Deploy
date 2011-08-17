@@ -12,3 +12,10 @@ J:\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
 J:\ConsoleApplication1\bin\Release\nunit.framework.dll
 J:\ConsoleApplication1\bin\Release\nunit.framework.xml
 J:\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\bin\Release\nunit.framework.xml
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Deploy\ConsoleApplication1\bin\Release\nunit.framework.dll

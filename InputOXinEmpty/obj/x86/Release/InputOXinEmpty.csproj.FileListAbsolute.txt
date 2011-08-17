@@ -3,3 +3,9 @@ C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projec
 C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\obj\x86\Release\InputOXinEmpty.exe
 C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\obj\x86\Release\InputOXinEmpty.pdb
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Release\InputOXinEmpty.exe
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Release\nunit.framework.dll
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Release\nunit.framework.xml
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\obj\x86\Release\InputOXinEmpty.exe
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\obj\x86\Release\InputOXinEmpty.pdb

@@ -8,3 +8,10 @@ D:\51362190\Agile\InputOXinEmpty\obj\x86\Debug\InputOXinEmpty.pdb
 D:\51362190\Agile\InputOXinEmpty\bin\Debug\InputOXinEmpty.exe
 D:\51362190\Agile\InputOXinEmpty\bin\Debug\InputOXinEmpty.pdb
 D:\51362190\Agile\InputOXinEmpty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\obj\x86\Debug\InputOXinEmpty.exe
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\obj\x86\Debug\InputOXinEmpty.pdb
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Debug\InputOXinEmpty.exe
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Debug\InputOXinEmpty.pdb
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\admin\Deploy\InputOXinEmpty\obj\x86\Debug\ResolveAssemblyReference.cache
