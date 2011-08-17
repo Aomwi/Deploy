@@ -16,3 +16,12 @@ D:\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
 D:\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
 D:\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\TEST PROJECT_AJILE\TicTacToe\bin\Debug\TicTacToe.exe
+C:\TEST PROJECT_AJILE\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog

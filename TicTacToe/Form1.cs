@@ -42,10 +42,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button1.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button1.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -61,10 +63,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button2.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button2.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -80,10 +84,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button4.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button4.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -98,10 +104,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button5.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button5.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -116,10 +124,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button6.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button6.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -134,10 +144,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button7.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button7.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -152,10 +164,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button8.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button8.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -170,10 +184,12 @@ namespace TicTacToe
                 if (turn)
                 {
                     button9.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button9.Text = "O";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
@@ -188,18 +204,18 @@ namespace TicTacToe
                 if (turn)
                 {
                     button3.Text = "X";
+                    label1.Text = "Current players, X";
                 }
                 else
                 {
                     button3.Text = "O";
+                    label1.Text = "Current players, X";
                 }
 
                 turn = !turn;
 
             }
-        }
-
-      
+        }  
 
      
     }

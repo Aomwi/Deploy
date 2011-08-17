@@ -1,0 +1,9 @@
+C:\TEST PROJECT_AJILE\TicTacToe\bin\Release\TicTacToe.exe
+C:\TEST PROJECT_AJILE\TicTacToe\bin\Release\TicTacToe.pdb
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\ResolveAssemblyReference.cache
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\TicTacToe.Form1.resources
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\TicTacToe.Properties.Resources.resources
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\GenerateResource.read.1.tlog
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\GenerateResource.write.1.tlog
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\TicTacToe.exe
+C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\TicTacToe.pdb
