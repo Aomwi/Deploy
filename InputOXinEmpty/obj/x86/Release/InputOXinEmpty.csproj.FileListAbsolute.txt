@@ -1,0 +1,5 @@
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\bin\Release\InputOXinEmpty.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\bin\Release\InputOXinEmpty.pdb
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\obj\x86\Release\InputOXinEmpty.exe
+C:\Documents and Settings\admin\Local Settings\Application Data\Temporary Projects\InputOXinEmpty\obj\x86\Release\InputOXinEmpty.pdb
