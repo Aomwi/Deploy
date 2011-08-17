@@ -7,3 +7,5 @@ C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\GenerateResource.read.1.tlog
 C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\GenerateResource.write.1.tlog
 C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\TicTacToe.exe
 C:\TEST PROJECT_AJILE\TicTacToe\obj\x86\Release\TicTacToe.pdb
+C:\Documents and Settings\admin\Deploy\TicTacToe\obj\x86\Release\TicTacToe.exe
+C:\Documents and Settings\admin\Deploy\TicTacToe\obj\x86\Release\TicTacToe.pdb
