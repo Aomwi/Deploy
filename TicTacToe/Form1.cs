@@ -12,15 +12,29 @@ namespace TicTacToe
     public partial class Form1 : Form
     {
         private  char[,] arrTiles;
-        private bool turn = true; 
-       
+        private bool turn = true;
+     
 
         public Form1()
         {
             InitializeComponent();
             arrTiles = new char[3, 3];
+            setFont();
         }
 
+        public void setFont()
+        {
+            button1.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button2.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button3.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button4.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button5.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button6.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button7.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button8.Font = new Font("Tahoma", 15, FontStyle.Bold);
+            button9.Font = new Font("Tahoma", 15, FontStyle.Bold);
+
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             if (button1.Text == "")
@@ -35,7 +49,8 @@ namespace TicTacToe
                 }
 
                 turn = !turn;
-                
+
+
                 }
         }
 
@@ -72,7 +87,7 @@ namespace TicTacToe
                 }
 
                 turn = !turn;
-
+               
             }
         }
 
