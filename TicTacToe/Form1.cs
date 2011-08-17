@@ -37,6 +37,7 @@ namespace TicTacToe
         }
         private void button1_Click(object sender, EventArgs e)
         {
+
             if (button1.Text == "")
             {
                 if (turn)
@@ -209,7 +210,7 @@ namespace TicTacToe
                 else
                 {
                     button3.Text = "O";
-                    label1.Text = "Current players, X";
+                    label1.Text = "Current players, O";
                 }
 
                 turn = !turn;
