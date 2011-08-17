@@ -7,3 +7,12 @@ C:\Documents and Settings\admin\Deploy\TicTacToe\obj\x86\Debug\GenerateResource.
 C:\Documents and Settings\admin\Deploy\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\admin\Deploy\TicTacToe\obj\x86\Debug\TicTacToe.exe
 C:\Documents and Settings\admin\Deploy\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+D:\TicTacToe\obj\x86\Debug\TicTacToe.exe
+D:\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+D:\TicTacToe\bin\Debug\TicTacToe.exe
+D:\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TicTacToe\obj\x86\Debug\TicTacToe.Form1.resources
+D:\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+D:\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
