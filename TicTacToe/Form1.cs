@@ -315,5 +315,26 @@ namespace TicTacToe
 
         }
 
+        private void vsComputerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            vsComputerToolStripMenuItem.Checked = true;
+            //Dosomthing();
+            vsPlayerToolStripMenuItem.Checked = false;
+            setEmptyTiles();
+            
+        }
+
+        private void vsPlayerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            vsComputerToolStripMenuItem.Checked = false;
+            vsPlayerToolStripMenuItem.Checked = true;
+            setEmptyTiles();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
     }
 }
