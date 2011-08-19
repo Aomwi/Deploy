@@ -1,0 +1,9 @@
+D:\TicTacToe\bin\Release\TicTacToe.exe
+D:\TicTacToe\bin\Release\TicTacToe.pdb
+D:\TicTacToe\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TicTacToe\obj\x86\Release\TicTacToe.Form1.resources
+D:\TicTacToe\obj\x86\Release\TicTacToe.Properties.Resources.resources
+D:\TicTacToe\obj\x86\Release\GenerateResource.read.1.tlog
+D:\TicTacToe\obj\x86\Release\GenerateResource.write.1.tlog
+D:\TicTacToe\obj\x86\Release\TicTacToe.exe
+D:\TicTacToe\obj\x86\Release\TicTacToe.pdb
