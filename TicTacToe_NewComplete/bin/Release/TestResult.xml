@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\51362190\Agile\TicTacToe_Complete\bin\Release\TicTacToe.exe" total="12" errors="0" failures="3" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-08-19" time="12:23:09">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.3623" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="D:\51362190\Agile\TicTacToe_Complete\bin\Release" machine-name="EE113-ACER141" user="admin" user-domain="EE113-ACER141" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\51362190\Agile\TicTacToe_Complete\bin\Release\TicTacToe.exe" executed="True" result="Failure" success="False" time="13.422" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TicTacToe" executed="True" result="Failure" success="False" time="13.406" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestGame" executed="True" result="Failure" success="False" time="13.406" asserts="0">
+            <results>
+              <test-case name="TicTacToe.TestGame.Test_Check_Transverse" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+              <test-case name="TicTacToe.TestGame.Test_Check_Winner_Draw" executed="True" result="Failure" success="False" time="10.766" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+                  <stack-trace><![CDATA[at TicTacToe.TestGame.Test_Check_Winner_Draw() in D:\51362190\Agile\TicTacToe_Complete\TestGame.cs:line 281
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TicTacToe.TestGame.Test_Check_Winner_Win" executed="True" result="Success" success="True" time="2.000" asserts="6" />
+              <test-case name="TicTacToe.TestGame.Test_CheckHorizontal" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="TicTacToe.TestGame.Test_CheckTransverse" executed="True" result="Failure" success="False" time="0.016" asserts="4">
+                <failure>
+                  <message><![CDATA[  Expected: 1
+  But was:  4
+]]></message>
+                  <stack-trace><![CDATA[at TicTacToe.TestGame.Test_CheckTransverse() in D:\51362190\Agile\TicTacToe_Complete\TestGame.cs:line 429
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TicTacToe.TestGame.Test_CheckVertical" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="TicTacToe.TestGame.Test_FillOnEmptyTile" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+              <test-case name="TicTacToe.TestGame.Test_InputOX_WithComPlayer" executed="True" result="Success" success="True" time="0.141" asserts="3" />
+              <test-case name="TicTacToe.TestGame.Test_InputOX_WithTwoPlayer" executed="True" result="Failure" success="False" time="0.000" asserts="1">
+                <failure>
+                  <message><![CDATA[  String lengths are both 1. Strings differ at index 0.
+  Expected: "X"
+  But was:  "O"
+  -----------^
+]]></message>
+                  <stack-trace><![CDATA[at TicTacToe.TestGame.Test_InputOX_WithTwoPlayer() in D:\51362190\Agile\TicTacToe_Complete\TestGame.cs:line 81
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="TicTacToe.TestGame.Test_PlayerPlay" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="TicTacToe.TestGame.Test_TwoPlayerPlay" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+              <test-case name="TicTacToe.TestGame.Test_Winner" executed="True" result="Success" success="True" time="0.000" asserts="8" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
